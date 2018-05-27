@@ -6167,6 +6167,7 @@ a.badge:hover {
     padding-top: 3px;
     padding-bottom: 3px;
     margin-bottom: 30px;
+    margin-top:30px;
     color: rgb(140, 140, 140);
     background-color: rgb(140, 140, 140);
 }
@@ -6195,6 +6196,7 @@ a.badge:hover {
     .jumbotron {
         padding-top: 3px;
         padding-bottom: 3px
+        margin-top:30px;
     }
     .container .jumbotron,
     .container-fluid .jumbotron {
@@ -11876,12 +11878,12 @@ a.badge:hover {
     margin-left: 3px
 }
 .jumbotron {
-    padding-top: 3px;
-    padding-bottom: 3px;
+    padding-top: 2px;
+    padding-bottom: 2px;
     margin-bottom: 30px;
+    margin-top:30px;
     color: inherit;
-    background: rgb(20,5,20);
-    background: linear-gradient(to bottom left, rgb(240, 240, 240), rgb(10, 0, 15));
+    background: rgb(240,240,240);
     box-shadow: 1px 1px 2px black;
 }
 .jumbotron .h1,
