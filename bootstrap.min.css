@@ -1078,7 +1078,7 @@ body {
     font-size: 14px;
     line-height: 1.42857143;
     color: #333;
-    background-color: rgb(10, 0, 15);
+    background-color: rgb(255, 255, 255);
 }
 button,
 input,
@@ -1089,7 +1089,7 @@ textarea {
     line-height: inherit
 }
 a {
-    color: #337ab7;
+    color: #30a1ad;
     text-decoration: none
 }
 a:focus,
